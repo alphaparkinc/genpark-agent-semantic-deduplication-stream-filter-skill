@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agent-semantic-deduplication-stream-filter-skill",
+  "version": "1.0.1",
+  "description": "Streaming semantic text deduplicator using Jaccard token overlap and sliding window hashing to eliminate redundant search snippets.",
+  "category": "Data Processing",
+  "entrypoint": "mcp_server.py",
+  "dependencies": []
+}
